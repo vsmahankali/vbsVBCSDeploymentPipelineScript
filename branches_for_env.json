@@ -1,0 +1,16 @@
+{
+    "env1": {
+        "branch": "env",
+        "doDeployment": "N",
+        "rootUrl": "abc",
+        "version" : "XXXXX",
+        "apprvlReq": "X"
+    },
+    "env2": {
+        "branch": "en1_fix",
+        "doDeployment": "Y",
+        "rootUrl": "xyz",
+        "version": "XXXXX",
+        "apprvlReq": "Y"
+    }
+}
